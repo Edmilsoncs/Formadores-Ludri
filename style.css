@@ -10,3 +10,7 @@
     font-size: 25px;  
     background-color: rgb(213, 236, 240);
 }
+.nome{
+    background-image: linear-gradient(#254831,#e544e5);
+    color: aqua;
+}
