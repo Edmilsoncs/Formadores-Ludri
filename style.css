@@ -17,3 +17,10 @@
 li {
     list-style-type: none;
   }
+header {
+    padding: 20px;
+    background-color: #3c0142;
+    border-bottom: 2px solid white;
+    font-size: 32px;
+    color: white;
+}  
